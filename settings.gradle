@@ -1,3 +1,4 @@
 rootProject.name = 'estudos'
 include 'streams'
+include 'exercicios'
 
